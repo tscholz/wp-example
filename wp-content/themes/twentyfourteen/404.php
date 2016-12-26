@@ -13,7 +13,7 @@ get_header(); ?>
 	<div id="primary" class="content-area">
 		<div id="content" class="site-content" role="main">
 
-			<header class="page-header asfdasfads">
+			<header class="page-header asfdasfads retwetewt">
 				<h1 class="page-title"><?php _e( 'Not Found', 'twentyfourteen' ); ?></h1>
 			</header>
 
